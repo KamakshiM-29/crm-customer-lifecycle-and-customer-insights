@@ -120,7 +120,7 @@ Some of the major observations from the study include:
 
 The customer survey used for Net Promoter Score (NPS) analysis was designed using Google Forms.
 
-**Survey Link:** https://docs.google.com/forms/d/e/1FAIpQLSc-M4sctfUPOFyW7tKOWs5KEOmmNHbE3jRUbR75u9i1rlw1A/viewform
+**Survey Link:** https://docs.google.com/forms/d/e/1FAIpQLSc-M4sctfUPOFyW7tKOWs5KE-OmmNHbE3jRUbR75u9i1rlw1A/viewform?usp=header
 
 ---
 
